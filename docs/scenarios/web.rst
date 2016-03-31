@@ -102,7 +102,7 @@ I do not recommend using Tornado unless you think you need it.
 Pyramid
 --------
 
-`Pyramid <http://www.pylonsproject.org/>`_ is a very flexible
+`Pyramid <https://trypyramid.com/>`_ is a very flexible
 framework with a heavy focus on modularity. It comes with a small number
 of libraries ("batteries") built-in, and encourages users to extend its
 base functionality.
